@@ -1,10 +1,10 @@
 
-><h1 align="center">Olá! Meu nome é João Victor e bem vindo ao meu perfil.</h1>
+><h1 align="center">Olá! Bem vindo ao meu perfil 😁.</h1>
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/jvscJoao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvscJoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvscJoao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jvscJoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvscJoao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
