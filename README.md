@@ -1,7 +1,7 @@
 
 ><h1 align="center">Olá! Bem vindo ao meu perfil👍.</h1>
 
-><h5 align="center">Gosto de praticar lógica usando LUA (baseado em um BOT de um jogo), com tempo irei posta-los e adicionando e também de Java.</h5>
+><h5 align="center">Gosto de praticar lógica usando LUA (baseado em um BOT de um jogo), com tempo irei posta-los e também de Java.</h5>
 
 
 <div style="display: inline_block" align="center">
