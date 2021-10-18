@@ -1,10 +1,13 @@
 
 ><h1 align="center">Olá! Bem vindo ao meu perfil 😁.</h1>
 
+><h5 align="center">I like to practice logic making scripts using Lua language, I intend to improve it better in Java, right now will have more lua scripts, but with time I will fix this issue.</h5>
+
+
 <div style="display: inline_block" align="center">
   <a href="https://github.com/jvscJoao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvscJoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvscJoao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jvscJoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvscJoao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
