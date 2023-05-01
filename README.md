@@ -1,7 +1,7 @@
 
 ><h1 align="center">Olá! Bem vindo ao meu perfil.</h1>
 
-><h5 align="center">Arquivos LUA são script's (baseado em um BOT de um jogo).</h5>
+><h5 align="center">Arquivos LUA são script's (baseado em um BOT de um jogo chamado Tibia).</h5>
 
 
 <div style="display: inline_block" align="center">
